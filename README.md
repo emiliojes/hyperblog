@@ -13,6 +13,9 @@ Estare agregando a mi repositorios de diferentes lenguajes entre esos Python, Ja
 > Obras Maestras
 > Retomamos el amor por las buenas practicas.
 
+> Siempre cambiando para darte lo mejor.
+> Aprendes de GitHub Pages y mas.
+> Disponible para ti en cualquier lugar
 
 ###MUCHAS HORAS NALGA EN EL PROCESO.
 
