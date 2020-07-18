@@ -11,6 +11,7 @@ Estare agregando a mi repositorios de diferentes lenguajes entre esos Python, Ja
 > Todos los comandos de Git
 > El flujo de trabajo en GitHub
 > Obras Maestras
+> Retomamos el amor por las buenas practicas.
 
 
 ###MUCHAS HORAS NALGA EN EL PROCESO.
