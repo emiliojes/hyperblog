@@ -12,6 +12,8 @@ Estare agregando a mi repositorios de diferentes lenguajes entre esos Python, Ja
 > El flujo de trabajo en GitHub
 > Obras Maestras
 > Retomamos el amor por las buenas practicas.
+> Siempre cambiando para darte lo mejor.
+> Aprendes de GitHub Pages y mas.
 
 
 ###MUCHAS HORAS NALGA EN EL PROCESO.
